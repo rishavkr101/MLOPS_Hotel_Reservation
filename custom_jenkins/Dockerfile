@@ -24,5 +24,3 @@ VOLUME /var/lib/docker
 # Switch back to the Jenkins user
 USER jenkins
 
-# Expose Jenkins ports
-EXPOSE 8080 5000
